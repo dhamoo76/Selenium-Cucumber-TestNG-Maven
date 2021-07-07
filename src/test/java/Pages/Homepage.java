@@ -1,4 +1,4 @@
-package ApplicationPages;
+package Pages;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import WebConnector.webconnector;

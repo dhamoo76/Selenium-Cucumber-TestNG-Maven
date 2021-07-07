@@ -4,9 +4,9 @@
   <testcase name="runScenario" time="50.242" classname="runner.HomePageRunner"/>
   <testcase name="runScenario" time="52.714" classname="runner.HomePageRunner">
     <error type="java.lang.NullPointerException">
-      <![CDATA[java.lang.NullPointerException
+        <![CDATA[java.lang.NullPointerException
 at WebConnector.webconnector.getElementWithLocator(webconnector.java:185)
-at ApplicationPages.Homepage.checkBlogLinkDisplay(Homepage.java:23)
+at Pages.Homepage.checkBlogLinkDisplay(Homepage.java:23)
 at stepdefs.HomePageSteps.googleLogoIsDisplayed(HomePageSteps.java:47)
 at ✽.User verify that Blog Link is displayed(file:src/test/resources/features/HomePage/02_VerifyBlogLink_HomePage.feature:7)
 ]]>
